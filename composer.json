@@ -1,0 +1,14 @@
+{
+    "name": "15219150444/study_composer",
+    "description": "test object",
+    "type": "object",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "15219150444",
+            "email": "939970308@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
